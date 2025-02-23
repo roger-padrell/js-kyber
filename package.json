@@ -1,6 +1,6 @@
 {
   "name": "js-kyber",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The port of UseKyber in javascript",
   "main": "index.js",
   "scripts": {
